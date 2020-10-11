@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Sound Voltex is easy as f
 Use the left arrow to go back!
